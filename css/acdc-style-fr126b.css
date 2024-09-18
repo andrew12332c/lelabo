@@ -1,0 +1,7 @@
+.header-actions .link-account > a { font-size: 10px; }
+
+@media (max-width: 767px) {
+	.section-products-mobile .product-items .product-item .product-item-title { font-size: 12px; }
+	.section-products-mobile .btn-link,
+	.section-products-mobile .product-item-price { font-size: 10px; }
+}
